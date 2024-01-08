@@ -5,9 +5,10 @@ import PropTypes from 'prop-types';
 
 const SideBar = ({loopMessage}) => {
   const messages = [
-    'FRONT-END ENGINEER',
+    'WEB DEVELPOER',
     'MACHINE LEARNING ENGINEER',
-    'MOBILE APP DEVELOPER'
+    'MOBILE APP DEVELOPER',
+    'FRONT-END ENGINEER',
   ];
   const useInterval = (callback, delay) => {
     const savedCallback = useRef();
