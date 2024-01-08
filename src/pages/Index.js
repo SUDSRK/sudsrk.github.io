@@ -10,13 +10,13 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">About this site</Link></h2>
+          <h2><Link to="/">PortFolio Website</Link></h2>
           <p>
-            SUDARSHAN'S PORTFOLIO
+            A Glance at my Life this far.
           </p>
         </div>
       </header>
-      <h5>Hey! I am Sudarshan</h5>
+      <h5>Hey! I&apos;M Sudarshan</h5>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}

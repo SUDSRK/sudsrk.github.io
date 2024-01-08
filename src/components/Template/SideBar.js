@@ -75,14 +75,13 @@ const SideBar = ({loopMessage}) => {
 
       <section className="blurb">
         <h2>About</h2>
-        <p>Hi, I&apos;m Sudarshan. I am a <a href="https://gbu.ac.in/">GBU</a> graduate
-          and the Lead Frontend Engineer at <a href="https://fooddarzee.com">Food Darzee</a>. Previously,
+        <p>I am a the Lead Frontend Engineer at <a href="https://fooddarzee.com">Food Darzee</a>. Previously,
           I was a Fullstack Developer at <a href="https://mlinfomap.com">ML Infomap. </a>
           I'm working with newest front-end frameworks like Angular and
           React. I am a Software Developer with a demonstrated history of working in the information technology and services industry.
           Skilled in Web Design and Machine Learning. I Excel at Web Development,
           App Development including coordinating group-up planning, programming, and implementing at core modules along with excellent written
-          and verbal communication skills.. Thank you 💜
+          and verbal communication skills. Thank you 💜
         </p>
         <ul className="actions">
           <li>
