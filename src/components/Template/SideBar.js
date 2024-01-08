@@ -12,11 +12,11 @@ const SideBar = ({loopMessage}) => {
   ];
   const useInterval = (callback, delay) => {
     const savedCallback = useRef();
-
+  
     useEffect(() => {
       savedCallback.current = callback;
     }, [callback]);
-
+  
     useEffect(() => {
       if (delay) {
         const id = setInterval(() => {
