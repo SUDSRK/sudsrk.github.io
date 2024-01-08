@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SUDSRK/sudsrk.github.io/static/css/main.3fc8ac9a.css",
-    "main.js": "/SUDSRK/sudsrk.github.io/static/js/main.479170dc.js",
+    "main.js": "/SUDSRK/sudsrk.github.io/static/js/main.f2952f26.js",
     "static/js/964.0c27be7f.chunk.js": "/SUDSRK/sudsrk.github.io/static/js/964.0c27be7f.chunk.js",
     "static/js/117.39cbe5dd.chunk.js": "/SUDSRK/sudsrk.github.io/static/js/117.39cbe5dd.chunk.js",
     "static/js/478.2ee94e57.chunk.js": "/SUDSRK/sudsrk.github.io/static/js/478.2ee94e57.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/about.md": "/SUDSRK/sudsrk.github.io/static/media/about.036d8e81f90bb3d52d15.md",
     "index.html": "/SUDSRK/sudsrk.github.io/index.html",
     "main.3fc8ac9a.css.map": "/SUDSRK/sudsrk.github.io/static/css/main.3fc8ac9a.css.map",
-    "main.479170dc.js.map": "/SUDSRK/sudsrk.github.io/static/js/main.479170dc.js.map",
+    "main.f2952f26.js.map": "/SUDSRK/sudsrk.github.io/static/js/main.f2952f26.js.map",
     "964.0c27be7f.chunk.js.map": "/SUDSRK/sudsrk.github.io/static/js/964.0c27be7f.chunk.js.map",
     "117.39cbe5dd.chunk.js.map": "/SUDSRK/sudsrk.github.io/static/js/117.39cbe5dd.chunk.js.map",
     "478.2ee94e57.chunk.js.map": "/SUDSRK/sudsrk.github.io/static/js/478.2ee94e57.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.3fc8ac9a.css",
-    "static/js/main.479170dc.js"
+    "static/js/main.f2952f26.js"
   ]
 }
