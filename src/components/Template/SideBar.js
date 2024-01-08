@@ -5,18 +5,18 @@ import PropTypes from 'prop-types';
 
 const SideBar = ({loopMessage}) => {
   const messages = [
-    'WEB DEVELPOER',
+    'WEB DEVELOPER',
     'MACHINE LEARNING ENGINEER',
     'MOBILE APP DEVELOPER',
     'FRONT-END ENGINEER',
   ];
   const useInterval = (callback, delay) => {
     const savedCallback = useRef();
-  
+
     useEffect(() => {
       savedCallback.current = callback;
     }, [callback]);
-  
+
     useEffect(() => {
       if (delay) {
         const id = setInterval(() => {
