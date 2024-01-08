@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://gitname.github.io/sudsrk.github.io",
+  "homepage": "https://sudsrk.github.io/index.html",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -11,8 +11,6 @@
     "node": ">=16.x"
   },
   "scripts": {
-    "predeploy": "npm run build",
-+   "deploy": "gh-pages -d build",
     "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
     "build": "rimraf ./build && react-scripts build",
     "lint": "eslint \"**/*.js\"",
