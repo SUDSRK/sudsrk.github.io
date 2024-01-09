@@ -75,7 +75,7 @@ const SideBar = ({loopMessage}) => {
 
       <section className="blurb">
         <h2>About</h2>
-        <p>I am a the Lead Frontend Engineer at <a href="https://fooddarzee.com">Food Darzee</a>. Previously,
+        <p>I am the Lead Frontend Engineer at <a href="https://fooddarzee.com">Food Darzee</a>. Previously,
           I was a Fullstack Developer at <a href="https://mlinfomap.com">ML Infomap. </a>
           I'm working with newest front-end frameworks like Angular and
           React. I am a Software Developer with a demonstrated history of working in the information technology and services industry.

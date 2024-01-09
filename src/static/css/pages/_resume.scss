@@ -16,6 +16,14 @@
 				padding: 0 .5em;
 				margin: 0;
 		}
+
+	}
+	.button-container{
+		display: flex;
+		float: inline-end;
+	}
+	.button-container :hover{
+		background-color: grey;
 	}
 
 	.education {

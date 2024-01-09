@@ -12,7 +12,7 @@ const Index = () => (
         <div className="title">
           <h2><Link to="/">PortFolio Website</Link></h2>
           <p>
-            A Glance at my Life this far.
+            A Glance at my Career so far.
           </p>
         </div>
       </header>

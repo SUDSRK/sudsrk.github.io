@@ -10,8 +10,8 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'i-have-a-job-for-you',
-  'please-work-for-us',
+  'I-have-a-Job-for-you',
+  'Please-work-for-us',
 ];
 
 const useInterval = (callback, delay) => {
@@ -71,7 +71,7 @@ const EmailLink = ({ loopMessage }) => {
     >
       <a href={validateText(message) ? `mailto:sudarshansuccess@gmail.com?subject=${message}` : ''}>
         <span>{message}</span>
-        <span>@gmail.com</span>
+        {/* <span>@gmail.com</span> */}
       </a>
     </div>
   );
