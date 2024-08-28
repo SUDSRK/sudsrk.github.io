@@ -22,17 +22,17 @@ const data = [
   {
     key: 'projects',
     label: 'Projects Done',
-    value: '8',
+    value: '14',
   },
   {
     key: 'lines',
     label: 'Lines of Code',
-    value: '80000+',
+    value: '200000+',
   },
   {
     key: 'commits',
     label: 'Total Github Lifetime Contributions',
-    value: '1500+',
+    value: '1200+',
   },
   {
     key: 'age',
@@ -47,7 +47,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Bengaluru, India',
+    value: 'Gurugram, India',
   },
   {
     key: 'hometown',

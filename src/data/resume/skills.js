@@ -5,8 +5,13 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
+    title: 'Next.js',
+    competency: 4,
+    category: ['Web Development', 'Javascript', 'Frameworks'],
+  },
+  {
     title: 'React',
-    competency: 3,
+    competency: 5,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -45,6 +50,16 @@ const skills = [
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
+    title: 'React Native',
+    competency: 3,
+    category: ['Mobile App Development', 'Frameworks', 'Javascript'],
+  },
+  {
+    title: 'Expo',
+    competency: 3,
+    category: ['Mobile App Development', 'Javascript'],
+  },
+  {
     title: 'Data Mining',
     competency: 3,
     category: ['Python'],
@@ -71,7 +86,7 @@ const skills = [
   },
   {
     title: 'Typescript',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -110,14 +125,29 @@ const skills = [
     category: ['Python'],
   },
   {
-    title: 'Vue.js',
+    title: 'Vue',
     competency: 2,
     category: ['Web Development', 'Javascript', 'Frameworks'],
   },
   {
-    title: 'Angular.js',
-    competency: 3,
+    title: 'Angular',
+    competency: 4,
     category: ['Web Development', 'Javascript', 'Frameworks'],
+  },
+  {
+    title: 'Tailwind',
+    competency: 4,
+    category: ['Web Development'],
+  },
+  {
+    title: 'Styled Components',
+    competency: 4,
+    category: ['Web Development', 'Frameworks'],
+  },
+  {
+    title: 'Electron.js ',
+    competency: 2,
+    category: ['Web Development', 'Frameworks', 'Javascript'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
