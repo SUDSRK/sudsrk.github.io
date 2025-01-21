@@ -75,23 +75,29 @@ const SideBar = ({loopMessage}) => {
 
       <section className="blurb">
         <h2>About</h2>
-        <p>I am the Lead Frontend Engineer at <a href="https://fooddarzee.com">Food Darzee</a>. Previously,
-          I was a Fullstack Developer at <a href="https://mlinfomap.com">ML Infomap. </a>
-          I'm working with newest front-end frameworks like Angular and
-          React. I am a Software Developer with a demonstrated history of working in the information technology and services industry.
-          Skilled in Web Design and Machine Learning. I Excel at Web Development,
-          App Development including coordinating group-up planning, programming, and implementing at core modules along with excellent written
-          and verbal communication skills. Thank you 💜
-        </p>
+        <p>I am a Founding Engineer at <a href="https://natoe.ai">Natoe.ai</a>, where I lead the front-end development,
+          handling everything from writing code to deployment. Previously, I worked as the solo Frontend Engineer at <a
+              href="https://fooddarzee.com">Food Darzee</a>, owning the entire front-end lifecycle and ensuring seamless
+          delivery of user-focused features.
+
+          With expertise in cutting-edge frameworks like Angular, React, and Next.js, I have a strong track record of
+          building and deploying scalable, high-performance web applications. My experience spans web and app
+          development, including core module implementation, group-up planning, and end-to-end execution. I am also
+          skilled in Web Design and Machine Learning, blending technical precision with creative problem-solving.
+
+          Beyond coding, I excel at collaborating with teams, communicating effectively, and ensuring that every project
+          I work on achieves its full potential. Thank you 💜</p>
+
         <ul className="actions">
           <li>
-            {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+            {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> :
+                <Link to="/about" className="button">About Me</Link>}
           </li>
         </ul>
       </section>
 
       <section id="footer">
-        <ContactIcons />
+        <ContactIcons/>
         {/* <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p> */}
       </section>
     </section>

@@ -14,6 +14,7 @@ const skills = [
     competency: 5,
     category: ['Web Development', 'Javascript'],
   },
+
   {
     title: 'Webstorm',
     competency: 4,
