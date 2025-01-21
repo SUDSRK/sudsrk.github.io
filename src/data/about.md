@@ -1,6 +1,8 @@
 # Intro
 
-I am the Lead FrontEnd Engineer at Food Darzee, where I work on websites and application that have helped over 100000+ customer to get healthy and in shape . Before Food Darzee, I was a Machine Learning and a Full Stack Developer at ML Infomap. In my spare time, I enjoy learning new things and I love playing games. I am particularly interested in small freelance projects. If you think I can be helpful to you and would like to meet, please feel free to get in touch.
+I am a Founding Engineer at [Natoe.ai](https://natoe.ai), where I led the development of the entire MVP, transforming it into a fully-fledged product from the ground up. Before Natoe.ai, I was the Lead Frontend Engineer at [Food Darzee](https://fooddarzee.com), where I developed websites and applications that have helped over 100,000+ customers lead healthier lives and achieve their fitness goals. Prior to that, I worked as a Machine Learning and Full Stack Developer at [ML Infomap](https://mlinfomap.com).
+
+In my spare time, I enjoy learning new technologies, playing games, and working on small freelance projects. If you think I can be helpful to you or your project, feel free to reach out. I’d love to connect!
 
 # Some history
 
@@ -20,7 +22,7 @@ I am the Lead FrontEnd Engineer at Food Darzee, where I work on websites and app
 
 - At 19, I started working with Javascript. 
 
-- At 24, Here I am, In Love with Javascript and React.
+- At 25, Here I am, In Love with Javascript and React.
 
 
 Ask me in person for other stories that I'm afraid to share with the internet.
@@ -40,7 +42,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - I am originally from Jamui, Bihar. But I have lived in Hajipur, Bihar for 14 Years, and then shifted to Delhi and lived there for 8 Years. Right Now I live   in Bengaluru.
 - I've been to approximately 10 states, many of which I would like to revisit.
-- Till 2023, I already have visited Mathura, Varanasi, Manali, Spiti, Zanskaar, Ladakh, Kargil, Sonmarg, 
+- Till 2023, I already have visited Mathura, Varanasi, Manali, Spiti, Zanskaar, Ladakh, Kargil, Sonmarg, Lansdowne, Nainital,
 Pahalgam, Srinagar, Nepal, Amritsar, Kasol, Manikarn, Tosh, Pulga, Kheerganga, Jaipur, Ahemdabad, Lucknow, Haridwar, Rishikesh, Sojha, Jibhi, ReckongPeo and some other places I can't remember of.
 
 
@@ -51,10 +53,4 @@ Pahalgam, Srinagar, Nepal, Amritsar, Kasol, Manikarn, Tosh, Pulga, Kheerganga, J
 - Staying curious.
 - Continually improving.
 
-# Websites from people I admire
-
-- [Akshay Saini](https://akshaysaini.in/)
-- [Code with Harry](https://www.codewithharry.com/)
-- [Andrew Ng](https://www.andrewng.org/)
-- [Dhaval Patel](https://codebasics.io/dhaval-patel)
 

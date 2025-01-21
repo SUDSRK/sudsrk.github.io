@@ -13,10 +13,27 @@
  */
 const work = [
   {
+    name: 'Natoe.ai',
+    position: 'Founding Engineer',
+    url: 'https://natoe.ai',
+    startDate: '2024-02-22',
+    summary: `As a core member of the founding team at Natoe.ai, I took complete ownership of the front-end development, building the entire MVP from the ground up and successfully launching a fully-fledged product. 
+  My role encompassed everything from planning to deployment, ensuring the product was robust, scalable, and user-friendly.`,
+    highlights: [
+      'End-to-End Front-End Ownership: Built the entire front end for the MVP single-handedly, managing all aspects from architecture design, coding, testing, to deployment.',
+      'MVP to Fully-Fledged Product: Successfully transitioned the MVP to a full product launch, implementing advanced features and scaling the application to production standards.',
+      'Innovative UI/UX Implementation: Designed and implemented user-centric interfaces that enhanced user engagement and streamlined the overall experience.',
+      'Seamless Deployment and Launch: Ensured smooth deployment pipelines and coordinated launches while maintaining high code quality and performance.',
+      'Cross-Functional Collaboration: Worked closely with co-founders and other team members to align technical efforts with business goals, delivering results on time with precision and impact.',
+    ],
+  },
+  {
     name: 'Food Darzee',
     position: 'Lead Front-End Engineer',
     url: 'https://fooddarzee.com/about',
     startDate: '2021-09-27',
+    endDate: '2024-02-21',
+
     summary: `As the sole Frontend Developer on the team, I spearheaded the development efforts for both website and mobile applications. 
     Successfully wrote numerous modules and features,
      demonstrating proficiency in crafting solutions that enhanced the overall user experience.`,

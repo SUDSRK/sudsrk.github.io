@@ -21,7 +21,7 @@ const data = [
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/sudarshan_malhotra/',
+    link: 'https://www.instagram.com/sudarshan_1608_/',
     label: 'Instagram',
     icon: faInstagram,
   },

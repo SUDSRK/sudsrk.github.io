@@ -27,12 +27,12 @@ const data = [
   {
     key: 'lines',
     label: 'Lines of Code',
-    value: '200000+',
+    value: '250000+',
   },
   {
     key: 'commits',
     label: 'Total Github Lifetime Contributions',
-    value: '1200+',
+    value: '1500+',
   },
   {
     key: 'age',
