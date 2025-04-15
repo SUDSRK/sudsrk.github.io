@@ -32,7 +32,7 @@ const data = [
   {
     key: 'commits',
     label: 'Total Github Lifetime Contributions',
-    value: '1500+',
+    value: '2000+',
   },
   {
     key: 'age',

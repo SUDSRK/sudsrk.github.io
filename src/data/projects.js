@@ -7,7 +7,7 @@ const data = [
     image: '/images/projects/pgrouting.png',
     date: '2021-03-20',
     desc:
-      'Build Using Angular, NodeJS, and PostgreSQL this webpage basically help you get a efficient path between 2 places. With all the path details. Build mainly for India . It basically uses OSM file which are available upon Request',
+      'Build Using Angular, NodeJS, and PostgreSQL this webpage basically help you get a efficient path between 2 places. With all the path details. Build mainly for India . It basically uses an OSM file which is available upon Request',
   },
   {
     title: 'Metadata Extractor',
